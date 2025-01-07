@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/coredns:1.6.5
-MAINTAINER heqingbao <qingbao.ho@gmail.com>
+FROM k8s.gcr.io/coredns:1.3.1
+MAINTAINER shaoyuheng <shaoyuheng@cloudnineinfo.com>
