@@ -1,0 +1,1 @@
+FROM snipe/snipe-it
